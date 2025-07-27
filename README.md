@@ -21,9 +21,9 @@ This academic project was developed by a team of four students at the **Higher I
 
 | Docker Image            | Description                      |
 |-------------------------|----------------------------------|
-| [`rowdox/mouhami`](https://hub.docker.com/r/rowdox/mouhami)       | PHP backend & logic            |
-| [`rowdox/mouhamidb`](https://hub.docker.com/r/rowdox/mouhamidb)     | MongoDB database               |
-| [`rowdox/trained-llama`](https://hub.docker.com/r/rowdox/trained-llama) | AI assistant model container   |
+| [`rowdox/mouhami`](https://hub.docker.com/r/rowdox/mouhami/tags)       | PHP backend & logic            |
+| [`rowdox/mouhamidb`](https://hub.docker.com/r/rowdox/mouhamidb/tags)     | MongoDB database               |
+| [`rowdox/trained-llama`](https://hub.docker.com/r/rowdox/trained-llama/tags) | AI assistant model container   |
 
 These containers make up the entire application and are intended to be orchestrated using Docker Compose.
 
