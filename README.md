@@ -6,9 +6,8 @@
 > You can pull and run the full platform using the images listed below.
 
 
-```markdown
-![Project Architecture](preview/container-design.png)
-````
+![Project Architecture](./preview/container-design.png)
+
 
 ---
 
